@@ -1,4 +1,4 @@
-# zeel-OS (HINDI-OS v1.2)
+# zeel-OS (OS v1.2)
 
 A custom 32-bit x86 Operating System written in Assembly and C++, featuring a two-stage bootloader, 32-bit protected mode kernel, dynamic memory management (Heap `kmalloc`/`kfree`), VGA text driver with scrolling, and an interactive shell.
 
